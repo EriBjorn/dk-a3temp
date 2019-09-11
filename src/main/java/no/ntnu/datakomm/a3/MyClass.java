@@ -34,4 +34,5 @@ public class MyClass {
         feature4();
         feature5();
     }
+    //Hei kan du se dette? 
 }
